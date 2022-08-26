@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\ZooLib\ZooLib\ZooLib.csproj" />
+    <ProjectReference Include="..\..\src\ZooApp\ZooApp\ZooApp.csproj" />
   </ItemGroup>
 
 </Project>

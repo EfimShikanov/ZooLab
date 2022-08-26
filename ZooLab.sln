@@ -11,17 +11,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ZooApp", "ZooApp", "{D515B8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ZooLib", "ZooLib", "{1A3E9E77-ABBC-475E-864D-7029D468E540}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ZooApp.Tests", "ZooApp.Tests", "{ECCFEBC9-178B-44B6-A5E2-1060E7702898}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ZooApp.Tests", "tests\ZooApp.Tests", "{ECCFEBC9-178B-44B6-A5E2-1060E7702898}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ZooLib.Tests", "ZooLib.Tests", "{99BAAF22-14E7-4D54-BF00-B3B0B5405503}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ZooLib.Tests", "tests\ZooLib.Tests", "{99BAAF22-14E7-4D54-BF00-B3B0B5405503}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooApp", "src\ZooApp\ZooApp\ZooApp.csproj", "{2C1E43B3-13E0-40EB-8E58-4A2E2F53C4A6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooLib", "src\ZooLib\ZooLib\ZooLib.csproj", "{3188E075-7476-46E5-B2A0-1810F9FF208D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooApp.Tests", "ZooApp.Tests\ZooApp.Tests.csproj", "{18AE44F9-1E53-4D1E-8F40-A1E43EFDB680}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooApp.Tests", "tests\ZooApp.Tests\ZooApp.Tests.csproj", "{18AE44F9-1E53-4D1E-8F40-A1E43EFDB680}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooLib.Tests", "ZooLib.Tests\ZooLib.Tests.csproj", "{C1C9D9F3-13A7-431D-86D7-A4E3C25FADE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooLib.Tests", "tests\ZooLib.Tests\ZooLib.Tests.csproj", "{C1C9D9F3-13A7-431D-86D7-A4E3C25FADE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
